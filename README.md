@@ -1,6 +1,6 @@
 # Lukas Majoros
 
-Network Architect & Fullstack Developer based in Katowice, Poland. Originally from Ostrava, CZ.
+Network Architect/Engineer based in Katowice, Poland. Originally from Ostrava, CZ.
 
 Currently at **Eurofins GSC IT Poland**. Previously Senior Network Engineer at Tietoevry.
 
@@ -76,7 +76,7 @@ Currently at **Eurofins GSC IT Poland**. Previously Senior Network Engineer at T
 
 ## Background
 
-BSc in Telecommunications — VSB Technical University of Ostrava. 5 years as Academic Senator (Faculty & University Senate). Competed in professional Counter-Strike — trophies in Czech-Slovak, European, and global tournaments.
+BSc in Telecommunications — VSB Technical University of Ostrava. 5 years as Academic Senator (Faculty & University Senate).
 
 ## Contact
 
